@@ -1,2 +1,4 @@
 *.csv
-results/
+results/plots
+results/data
+!final.csv
